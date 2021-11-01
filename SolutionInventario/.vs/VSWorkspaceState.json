@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InventarioAPI",
+    "\\InventarioAPI\\bin\\Debug\\netcoreapp3.1\\runtimes",
+    "\\InventarioAPI\\Controllers"
+  ],
+  "SelectedNode": "\\InventarioAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
